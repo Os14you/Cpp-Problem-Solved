@@ -9,6 +9,6 @@ int main()
 	x = x - (int)x;    // remove the intger value
 	bool is_even = (x==0);
 	bool is_odd = !is_even;
-	cout<<">> "<<is_odd;
+	cout<<"the num is even = "<<is_even<<" ,the num is odd = "<<is_odd;
 	return 0;
 }
