@@ -6,7 +6,7 @@
 <a href="https://www.udemy.com/share/103Gal/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=12F707&center=true&random=false&width=1000&lines=These+problems+are+from+Mastering+C%2B%2B+17+Course;Thanks+For+Dr.+Moustafa+Saad+;The+Link+of+the+course+is+down+the+readme+file" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/os14-you/Cpp-Problem-Solved?logo=sidequest&color=red"> • <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/os14-you/Cpp-Problem-Solved"> • <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/os14-you/Cpp-Problem-Solved?logo=commitlint&labelColor=grean&color=green"> • <img alt="Static Badge" src="https://img.shields.io/badge/No._Problems_Solved-99-1">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/os14-you/Cpp-Problem-Solved?logo=sidequest&color=red"> • <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/os14-you/Cpp-Problem-Solved"> • <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/os14-you/Cpp-Problem-Solved?logo=commitlint&labelColor=grean&color=green"> • <img alt="Static Badge" src="https://img.shields.io/badge/No._Problems_Solved-144-1">
 
 
 </p>
